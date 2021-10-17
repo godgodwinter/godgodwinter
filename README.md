@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Kakadlz
+### Hi there 👋
 
 ![Kamona-WD's github stats](https://github-readme-stats.vercel.app/api?username=godgodwinter&show_icons=true&theme=default&include_all_commits=true)
 
