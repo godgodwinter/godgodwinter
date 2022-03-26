@@ -9,7 +9,7 @@
 
 [TOP_LANGS]: https://github-readme-stats.vercel.app/api/top-langs/?username=godgodwinter&langs_count=8&hide=Rich+Text+Format,HTML,CSS,Hack,Less,SCSS,Shell&layout=compact&theme=dracula
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/pin/?username=godgodwinter&repo=godgodwinter&theme=dracula)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/pin/?username=godgodwinter&repo=github-readme-stats&theme=dracula)
 <!--
 **godgodwinter/godgodwinter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
