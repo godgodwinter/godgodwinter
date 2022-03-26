@@ -7,10 +7,9 @@
 ![Views](https://komarev.com/ghpvc/?username=godgodwinter)
 
 
-[TOP_LANGS]: https://github-readme-stats.vercel.app/api/top-langs/?username=godgodwinter&langs_count=2&hide=Rich+Text+Format,HTML,CSS,Hack,Less,SCSS,Shell&layout=compact
+[TOP_LANGS]: https://github-readme-stats.vercel.app/api/top-langs/?username=godgodwinter&langs_count=8&hide=Rich+Text+Format,HTML,CSS,Hack,Less,SCSS,Shell&layout=compact
 
-
-[TOP_LANGS2]: https://github-readme-stats.vercel.app/api/top-langs/?username=godgodwinter&langs_count=8&hide=Rich+Text+Format,HTML,CSS,Hack,Less,SCSS,Shell,PHP,Javascript,Blade&layout=compact
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=godgodwinter)](https://github.com/godgodwinter/github-readme-stats)
 <!--
 **godgodwinter/godgodwinter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
